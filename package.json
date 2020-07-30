@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-unterlagenakte",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "europace eslint ruleset",
   "main": "index.js",
   "author": "Manuel Zach",
