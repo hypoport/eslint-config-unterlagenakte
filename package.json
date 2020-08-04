@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-unterlagenakte",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "europace eslint ruleset",
   "main": "index.js",
   "author": "Manuel Zach",
@@ -9,9 +9,9 @@
     "eslint": ">= 3"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.7.1",
-    "@typescript-eslint/parser": "^3.7.1",
-    "eslint": "^7.5.0",
+    "@typescript-eslint/eslint-plugin": "^3.8.0",
+    "@typescript-eslint/parser": "^3.8.0",
+    "eslint": "^7.6.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "typescript": "~3.8.3"
