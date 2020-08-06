@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-unterlagenakte",
+  "name": "@hypoport/eslint-config-unterlagenakte",
   "version": "1.0.6",
   "description": "europace eslint ruleset",
   "main": "index.js",
@@ -15,5 +15,8 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "typescript": "~3.8.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
